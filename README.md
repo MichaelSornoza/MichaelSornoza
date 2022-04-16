@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MichaelSornoza
 - 👀 I’m interested in web development and musician
-- 🌱 I’m currently learning NestJS
-- 💞️ I’m looking to collaborate on GAD Manta
+- 🌱 I’m currently learning Django
 
 <!---
 MichaelSornoza/MichaelSornoza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
